@@ -1,0 +1,7 @@
+{
+  "app": {
+    "theme": "dark",
+    "autoRefresh": true,
+    "refreshInterval": 5000
+  }
+}
